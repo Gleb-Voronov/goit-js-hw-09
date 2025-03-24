@@ -56,4 +56,4 @@ form.addEventListener('submit', event => {
   localStorage.removeItem(STORAGE_KEY);
   formData = { email: '', message: '' };
 });
- <script type="module" src="./js/form.js"></script>
+ 

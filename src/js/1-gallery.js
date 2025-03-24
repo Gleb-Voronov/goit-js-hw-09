@@ -93,4 +93,4 @@ const lightbox = new SimpleLightbox('.gallery a', {
     captionPosition: 'bottom',
     captionDelay: 250,
 });
-  <script type="module" src="./js/form.js"></script>
+ 
